@@ -28,7 +28,7 @@ int main(){
         return 0;
     }
     
-    //Defining threads for the branchinf factor from source node
+    //Defining threads for the branching factor from source node
     int num_threads = G[src].size();
     if(num_threads == 0){
         cout << "No Solution";
