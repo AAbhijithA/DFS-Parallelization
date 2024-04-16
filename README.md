@@ -11,7 +11,7 @@ In the given implementation we define the number of threads for the DFS Algorith
 ***(Note: First Ensure you have C/C++ Compiler in your system along with the OpenMP Environment to run the code)***
 
 You can run the following algorithm using the commands as shown in your terminal:
-```
+```bash
 > g++ -fopenmp parallelDFS.cpp -o run.exe
 > ./run.exe
 ```
